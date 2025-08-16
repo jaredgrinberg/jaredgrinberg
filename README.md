@@ -2,16 +2,16 @@
 ![GitHub followers](https://img.shields.io/github/followers/jaredgrinberg?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/jaredgrinberg?style=social)
 
-# Hi there 👋
-
 ### I’m Jared Grinberg 🦾  
 PhD Student in **Robotics** at the University of Michigan  
-Research focus: proprioceptive sensing, actuator design, legged robotics, and control systems.  
+B.S. in Biomedical Engineering (minor in Mathematics) from Georgia Tech  
 
-- 📚 Former **Biomedical Engineering @ Georgia Tech** (minor in Mathematics)  
-- 🔬 Research on **virtual backdrivability**, proprioceptive tactile sensing, and safe human-robot interaction  
-- 💻 Skilled in **C, C++, Python, MATLAB, ROS2, STM32, control theory**  
-- 🌐 Personal site: [jaredgrinberg.github.io](https://jaredgrinberg.github.io)  
+Research interests:  
+- 🖐️ Proprioceptive sensing  
+- 🦿 Legged & medical robotics  
+- ⚙️ Control systems and embedded robotics  
+
+🌐 Personal site: [jaredgrinberg.github.io](https://jaredgrinberg.github.io)  
 
 ---
 
