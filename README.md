@@ -9,9 +9,9 @@ B.S. in Biomedical Engineering (minor in Mathematics) from Georgia Tech
 Research interests:  
 - 🖐️ Proprioceptive sensing  
 - 🦿 Legged & medical robotics  
-- ⚙️ Control systems and embedded robotics  
+- ⚙️ Control and embedded systems
 
-🌐 Personal site: [jaredgrinberg.github.io](https://jaredgrinberg.github.io)  
+<!-- 🌐 Personal site: [jaredgrinberg.github.io](https://jaredgrinberg.github.io) -->
 
 ---
 
