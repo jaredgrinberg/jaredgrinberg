@@ -13,7 +13,7 @@ Research interests:
 <div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=140 
-       src="https://github-readme-stats.vercel.app/api?username=jaredgrinberg&count_private=true&show_icons=true&hide=issues,contribs&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&theme=default&hide_rank=true#gh-light-mode-only" 
+       src="https://github-readme-stats.vercel.app/api?username=jaredgrinberg&count_private=true&show_icons=true&hide=issues,contribs&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&theme=default&hide_rank=true&cache_seconds=1800#gh-light-mode-only" 
        alt="Jared's GitHub stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
@@ -25,7 +25,7 @@ Research interests:
 <div align="left"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=140 
-       src="https://github-readme-stats.vercel.app/api?username=jaredgrinberg&count_private=true&show_icons=true&hide=issues,contribs&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&theme=dark&hide_rank=true#gh-dark-mode-only" 
+       src="https://github-readme-stats.vercel.app/api?username=jaredgrinberg&count_private=true&show_icons=true&hide=issues,contribs&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&theme=dark&hide_rank=true&cache_seconds=1800#gh-dark-mode-only" 
        alt="Jared's GitHub stats (dark)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
