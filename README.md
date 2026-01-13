@@ -18,7 +18,7 @@ Research interests:
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
   <img height=140 
-       src="https://github-readme-stats-pearl-chi-97.vercel.app/api/top-langs/?username=jaredgrinberg&layout=compact&langs_count=4&hide_border=false&card_width=420&role=owner,collaborator&theme=default&hide=OpenEdge%20ABL,Makefile,Perl,Assembly,Objective-C&langs_color=C:2e8b57,MATLAB:c41e3a&cache_seconds=1800#gh-light-mode-only" 
+       src="https://github-readme-stats-pearl-chi-97.vercel.app/api/top-langs/?username=jaredgrinberg&layout=compact&langs_count=4&hide_border=false&card_width=420&role=owner,collaborator&theme=default&hide=OpenEdge%20ABL,Makefile,Perl,Assembly,Objective-C&cache_seconds=1800#gh-light-mode-only" 
        alt="Top Languages" />
 </a>
 </div>
@@ -30,7 +30,7 @@ Research interests:
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
   <img height=140 
-       src="https://github-readme-stats-pearl-chi-97.vercel.app/api/top-langs/?username=jaredgrinberg&layout=compact&langs_count=4&hide_border=false&card_width=420&role=owner,collaborator&theme=dark&hide=OpenEdge%20ABL,Makefile,Perl,Assembly,Objective-C&langs_color=C:2e8b57,MATLAB:c41e3a&cache_seconds=1800#gh-dark-mode-only" 
+       src="https://github-readme-stats-pearl-chi-97.vercel.app/api/top-langs/?username=jaredgrinberg&layout=compact&langs_count=4&hide_border=false&card_width=420&role=owner,collaborator&theme=dark&hide=OpenEdge%20ABL,Makefile,Perl,Assembly,Objective-C&cache_seconds=1800#gh-dark-mode-only" 
        alt="Top Languages (dark)" />
 </a>
 </div>
